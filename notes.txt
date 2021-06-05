@@ -1,0 +1,6 @@
+how to make a truffle project
+
+commands:
+
+truffle version    shows the version of your truffle
+truffle init       creates a truffle project
